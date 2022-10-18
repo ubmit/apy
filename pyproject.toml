@@ -8,7 +8,7 @@ packages = [{include = "fastapi_tutorial"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-fastapi = {extras = ["all"], version = "^0.85.0"}
+fastapi = "^0.85.1"
 
 [tool.poetry.group.dev.dependencies]
 poethepoet = "^0.16.4"
